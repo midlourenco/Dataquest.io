@@ -28,4 +28,4 @@ Project 5:
 - Storytelling Data Visualization and Information Design
 - In this project we focus on evolution of EUR/USD rate and related its evolution during financial crises (2008) and COVID-19 pandemic (2020)
 - We create explanatory graphics which let audience easily understand the storyline just checking graphics
-- 
+- https://github.com/midlourenco/Dataquest.io/blob/main/project_5-%20euro%20daily%20exchange%20rates/20210817%20-%20Project%205%20-%20euro%20exchange%20rate(1).html
