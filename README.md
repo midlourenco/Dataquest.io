@@ -10,21 +10,21 @@
 
 <h2>Projects done on data science in python path</h2>
 
-<h3>**Project 1: **</h3>
+<h3>Project 1: </h3>
 <ul>
   <li> This project aims identify what are the more profitable app profiles for the App Store and Google Play markets.
   <li> Python for Data Science: Fundamentals (Part I and II)
 </ul>
 
 
-<h3>**Project 2: **</h3>
+<h3>Project 2: </h3>
 <ul>
 <li> This project aims to take some conclusions about which posts from Hacker News receive more comments.
 <li> Python for Data Science: Intermediate
 </ul>
 
 
-<h3>**Project 3: **</h3>
+<h3>Project 3: </h3>
 <ul>
   <li> This project aims to explore the data details of used cars sold in eBay.</li>
   <li> Pandas and NumPy Fundamentals </li>
@@ -44,7 +44,7 @@
 </ul>
 
 
-<h3>**Project 4: **</h3>
+<h3>Project 4: </h3>
   <ul>
     <li> This project aims  to find heavy traffic indicators on I-94.
     <li> Data Visualization Fundamentals
@@ -57,7 +57,7 @@
     https://github.com/midlourenco/Dataquest.io/blob/main/project_4-%20heavy%20traffic%20indicators/20210719-%20project4%20-%20heavy%20traffic%20indicators.ipynb
   </ul>
 
-<h3>**Project 5: **</h3>
+<h3>Project 5: </h3>
   <ul>
     <li> Evolution of Euro daily exchange rates
     <li> Storytelling Data Visualization and Information Design
@@ -72,13 +72,19 @@
   </ul>
   
   
-  <h3>**Project 6: **</h3>
-  <ul>
+  <h3>Project 6:</h3>
+  <ul> 
    <li> Clean and Analyze Employee Exit Surveys from 2 organization in Australia
-   <li> Objectives: apply following tools for data cleaning to find the different factors that affect employee resignations:
+   <li> Objectives: To find the different factors that affect employee resignations and identify the relation between dissatisfaction and the lenght of period that employee worked at the institute.
+   <li> To reach this goal we applied following tools for data cleaning and analyze.
       * Vectorized string methods to clean string columns
       * The apply(), map(), and applymap() methods to transform data
       * The fillna(), dropna(), and drop() methods to drop missing or unnecessary values
       * The melt() function to reshape data
       * The concat() and merge() functions to combine data
       * Basic Regular Expressions
+      * Create customized dataframe bins with specific label
+      * Create pivot table, pie plots and bar plots to show the results 
+    <li> https://github.com/midlourenco/Dataquest.io/blob/main/project_6%20-%20clean%20and%20analyze%20employee%20exit%20surveys/20210903%20-%20Project%20No.%206%20-%20%20Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb
+      </ul>
+
